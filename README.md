@@ -1,0 +1,1 @@
+This is an analog clock works exactly like a real clock which the time of your time zone using Javascript.
